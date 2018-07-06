@@ -115,8 +115,8 @@ class audio_generator(object):
         return paragraphs
 
 
-ACCESS_ID = "AKIAJYRP5HASIB34EUPA"
-ACCESS_KEY = "V0ayIj0dULvBbLl9ziH/3Pvb8kXxJ/D3ba2YHHej"
+ACCESS_ID = "XX"
+ACCESS_KEY = "XX"
 region_name = "us-east-1"
 
 text = ""
